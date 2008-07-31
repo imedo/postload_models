@@ -1,1 +1,1 @@
-require File.dirname(__FILE__) + '/lib/postload_observers.rb'
+require File.dirname(__FILE__) + '/lib/postload_models.rb'
