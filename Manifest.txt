@@ -3,7 +3,7 @@ init.rb
 Manifest.txt
 MIT-LICENSE
 Rakefile
-README
+README.txt
 lib/postload_models.rb
 lib/postload_models/cacher.rb
 lib/postload_models/loader.rb
